@@ -23,4 +23,8 @@ class BankAccount
     end
     return valid
   end
+
+  def close_account
+    
+  end
 end
